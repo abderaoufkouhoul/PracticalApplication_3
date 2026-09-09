@@ -19,6 +19,8 @@ The dataset in question has 21  features which are described in the attached fil
 
 # Summary of classification algorithms performances
 
+<img width="443" height="188" alt="image" src="https://github.com/user-attachments/assets/97ce257d-e490-4b1f-8292-68ea0535f664" />
+
 
 # Main Findings
 While examining the output tree of DecisionTreeClassifier, we notice that only 05 features among the  initial 21 features are sufficient to obtain 90 % accuracy. Therefore, building another model with only 05 features
@@ -29,3 +31,5 @@ These 05 features are:
 3. pdays
 4. day_oftheweek
 5. contact 
+
+The Notebook is accessible on:  
