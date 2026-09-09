@@ -33,3 +33,4 @@ These 05 features are:
 5. contact 
 
 The Notebook is accessible on:  
+https://github.com/abderaoufkouhoul/PracticalApplication_3/blob/main/Practical_Application_3.ipynb
